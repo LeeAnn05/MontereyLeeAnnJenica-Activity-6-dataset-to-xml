@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE expenditure.csv [
+<!ELEMENT expenditure.csv (csv)>
+<!ELEMENT Moves (LOCATION, Country, TIME, Business_enterprise, Government, Higher_Education,	Private_non-profit,	Rest_of_the_world,	Basic_research, Applied_research,Experimental_development, Medical_health_sciences)>
+
+<!ELEMENT LOCATION (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+<!ELEMENT TIME (#PCDATA)>
+<!ELEMENT Business_enterprise (#PCDATA)>
+<!ELEMENT Government (#PCDATA)>
+<!ELEMENT Higher_Education (#PCDATA)>
+<!ELEMENT Private_non-profit (#PCDATA)>
+<!ELEMENT Rest_of_the_world (#PCDATA)>
+<!ELEMENT Basic_research (#PCDATA)>
+<!ELEMENT Applied_research (#PCDATA)>
+<!ELEMENT Experimental_development (#PCDATA)>
+<!ELEMENT Medical_health_sciences (#PCDATA)>
+
+
+
+<!ATTLIST csv row CDATA #REQUIRED>
+
+]>
+
+<expenditure.csv>
+
+	
+ 	<csv id = "row 6">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>1997</TIME>
+ 		<Business_enterprise>479053.7055</Business_enterprise>
+ 		<Government>1153081.12307999</Government>
+ 		<Higher_Education>29224.56816</Higher_Education>
+ 		<Private_non-profit>38536.3178199999</Private_non-profit>
+ 		<Rest_of_the_world>60454.74394</Rest_of_the_world>
+ 		<Basic_research>454170.418289999</Basic_research>
+ 		<Applied_research>876654.528329999</Applied_research>
+ 		<Experimental_development>429525.51187</Experimental_development>
+ 		<Medical_health_sciences>0</Medical_health_sciences>
+
+	</csv>
+
+
+ 	<csv id = "row 7">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>1998</TIME>
+ 		<Business_enterprise>4489265.32287</Business_enterprise>
+ 		<Government>1200106.99191</Government>
+ 		<Higher_Education>41398.24021</Higher_Education>
+ 		<Private_non-profit>27107.74448</Private_non-profit>
+ 		<Rest_of_the_world>53626.1901599999</Rest_of_the_world>
+ 		<Basic_research>547074.35587</Basic_research>
+ 		<Applied_research>845972.59666</Applied_research>
+ 		<Experimental_development>418457.5371</Experimental_development>
+ 		<Medical_health_sciences>266952.35322</Medical_health_sciences>
+
+	</csv>
+
+	<csv id = "row 8">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>1999</TIME>
+ 		<Business_enterprise>504675.09631</Business_enterprise>
+ 		<Government>1321419.81738</Government>
+ 		<Higher_Education>53179.83352</Higher_Education>
+ 		<Private_non-profit>29104.14958</Private_non-profit>
+ 		<Rest_of_the_world>50284.65633</Rest_of_the_world>
+ 		<Basic_research>491570.61011</Basic_research>
+ 		<Applied_research>885314.70699</Applied_research>
+ 		<Experimental_development>581778.23602</Experimental_development>
+ 		<Medical_health_sciences>283117.85294</Medical_health_sciences>
+
+	</csv>
+
+	<csv id = "row 9">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2000</TIME>
+ 		<Business_enterprise>447927.965289999</Business_enterprise>
+ 		<Government>1360442.37391</Government>
+ 		<Higher_Education>48124.4921399999</Higher_Education>
+ 		<Private_non-profit>36093.3691</Private_non-profit>
+ 		<Rest_of_the_world>31157.52376</Rest_of_the_world>
+ 		<Basic_research>538648.80277</Basic_research>
+ 		<Applied_research>861838.08444</Applied_research>
+ 		<Experimental_development>523258.83698</Experimental_development>
+ 		<Medical_health_sciences>305559.67604</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 10">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2001</TIME>
+ 		<Business_enterprise>378034.196369999</Business_enterprise>
+ 		<Government>1352788.19385</Government>
+ 		<Higher_Education>43067.18693</Higher_Education>
+ 		<Private_non-profit>23926.21496</Private_non-profit>
+ 		<Rest_of_the_world>22012.11776</Rest_of_the_world>
+ 		<Basic_research>531800.00451</Basic_research>
+ 		<Applied_research>813650.81675</Applied_research>
+ 		<Experimental_development>474377.08861</Experimental_development>
+ 		<Medical_health_sciences>259679.186369999</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 11">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2002</TIME>
+ 		<Business_enterprise>339682.51917</Business_enterprise>
+ 		<Government>1047161.53277</Government>
+ 		<Higher_Education>50381.36509</Higher_Education>
+ 		<Private_non-profit>52872.33549</Private_non-profit>
+ 		<Rest_of_the_world>17712.18897</Rest_of_the_world>
+ 		<Basic_research>395230.66302</Basic_research>
+ 		<Applied_research>711688.10851</Applied_research>
+ 		<Experimental_development>400937.06932</Experimental_development>
+ 		<Medical_health_sciences>210764.87648</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 12">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2003</TIME>
+ 		<Business_enterprise>461029.37693</Business_enterprise>
+ 		<Government>1157430.28242</Government>
+ 		<Higher_Education>58401.16905</Higher_Education>
+ 		<Private_non-profit>64159.7565399999</Private_non-profit>
+ 		<Rest_of_the_world>524337.4465099999</Rest_of_the_world>
+ 		<Basic_research>452305.04245</Basic_research>
+ 		<Applied_research>828004.4967</Applied_research>
+ 		<Experimental_development>485054.21768</Experimental_development>
+ 		<Medical_health_sciences>266001.168009999</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 13">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2004</TIME>
+ 		<Business_enterprise>598096.46774</Business_enterprise>
+ 		<Government>1166019.27778</Government>
+ 		<Higher_Education>110340.856529999</Higher_Education>
+ 		<Private_non-profit>53071.04546</Private_non-profit>
+ 		<Rest_of_the_world>19446.12966</Rest_of_the_world>
+ 		<Basic_research>475243.80658</Basic_research>
+ 		<Applied_research>857844.39465</Applied_research>
+ 		<Experimental_development>613910.42658</Experimental_development>
+ 		<Medical_health_sciences>293337.05778</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 14">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2005</TIME>
+ 		<Business_enterprise>704581.10068</Business_enterprise>
+ 		<Government>1354243.4319</Government>
+ 		<Higher_Education>129907.25629</Higher_Education>
+ 		<Private_non-profit>67492.2333</Private_non-profit>
+ 		<Rest_of_the_world>15440.1691099999</Rest_of_the_world>
+ 		<Basic_research>607726.68734</Basic_research>
+ 		<Applied_research>977627.13101</Applied_research>
+ 		<Experimental_development>686322.4218</Experimental_development>
+ 		<Medical_health_sciences>305948.725769999</Medical_health_sciences>
+
+
+	</csv>
+
+	<csv id = "row 15">
+ 		<LOCATION>ARG</LOCATION>
+ 		<Country>Argentina</Country>
+ 		<TIME>2006</TIME>
+ 		<Business_enterprise>799003.50268</Business_enterprise>
+ 		<Government>1710596.20734</Government>
+ 		<Higher_Education>115654.90552</Higher_Education>
+ 		<Private_non-profit>72729.17482</Private_non-profit>
+ 		<Rest_of_the_world>21613.67209</Rest_of_the_world>
+ 		<Basic_research>763443.3579</Basic_research>
+ 		<Applied_research>1161757.97876</Applied_research>
+ 		<Experimental_development>794360.83954</Experimental_development>
+ 		<Medical_health_sciences>384788.22264</Medical_health_sciences>
+
+
+	</csv>
+
+</expenditure.csv>
